@@ -139,7 +139,7 @@ export default function Home() {
               transition={{ delay: 0.6 }}
               className="text-muted-foreground font-serif italic"
             >
-              These words are meant for you...
+              A few messages for you...
             </motion.p>
           </div>
 
@@ -193,7 +193,7 @@ export default function Home() {
               className="text-center mt-12"
             >
               <p className="text-muted-foreground font-serif italic">
-                If these words make you think something, or you feel like responding...
+                Agar kuch kehne ka man kare...
               </p>
               <p className="mt-2 font-serif text-lg underline text-blue-500 hover:text-blue-600">
                 <a href="mailto:shubham.gaur7116@gmail.com">Write back to me</a>
